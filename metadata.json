@@ -1,0 +1,6 @@
+{
+  "name": "Tushar Enterprises",
+  "description": "An enterprise-grade Smart Inventory & Supply Chain Management System featuring multi-warehouse logistics, role-based access control, real-time demand forecasting, supplier performance analytics, interactive automated stock adjustment, and an AI logistical assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
